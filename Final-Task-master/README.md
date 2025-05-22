@@ -1,5 +1,6 @@
-This Is Task 1 
-Created By SetuRaj sharma student ID 69879
+This is Task 1  
+Created by SetuRaj Sharma  
+Student ID: 69879  
 
-Here are the screenshots of the result and the code
-![image]("greeting.png")
+Here are the screenshots of the result and the code:  
+![image](greeting.png)
